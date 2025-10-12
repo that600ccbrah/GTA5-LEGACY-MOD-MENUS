@@ -1,0 +1,8 @@
+02:29:26 | INFO | Base: 0x7FFA50260000 Size: 19419136
+02:29:26 | INFO | Game Base: 0x7FF706210000 Size: 67057664
+02:29:28 | FATAL | auth_service.cpp:40 | Failed to login.
+02:29:28 | INFO | Pointers cache: Loaded 2 fields from the cache in 0ms
+02:29:28 | INFO | Pointers cache: Loaded 260 fields from the cache in 0ms
+02:29:28 | INFO | Pointers cache: Loaded 6 fields from the cache in 0ms
+02:29:28 | INFO | Menu manager initialized.
+02:29:28 | INFO | Submenu manager initialized.
