@@ -1,0 +1,59 @@
+{
+    "MenuBack": [
+        [
+            "Numpad0"
+        ],
+        [
+            "Gamepad_B"
+        ]
+    ],
+    "MenuDown": [
+        [
+            "Numpad2"
+        ],
+        [
+            "Gamepad_DpadDown"
+        ]
+    ],
+    "MenuLeft": [
+        [
+            "Numpad4"
+        ],
+        [
+            "Gamepad_DpadLeft"
+        ]
+    ],
+    "MenuRight": [
+        [
+            "Numpad6"
+        ],
+        [
+            "Gamepad_DpadRight"
+        ]
+    ],
+    "MenuSelect": [
+        [
+            "Numpad5"
+        ],
+        [
+            "Gamepad_A"
+        ]
+    ],
+    "MenuToggle": [
+        [
+            "F5"
+        ],
+        [
+            "Gamepad_RightShoulder",
+            "Gamepad_SpecialRight"
+        ]
+    ],
+    "MenuUp": [
+        [
+            "Numpad8"
+        ],
+        [
+            "Gamepad_DpadUp"
+        ]
+    ]
+}
